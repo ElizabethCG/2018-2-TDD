@@ -1,0 +1,15 @@
+{
+  "name": "2018-2-tdd",
+  "version": "1.0.0",
+  "description": "Clase de TDD",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fabián Alexis Bravo Abarca",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
